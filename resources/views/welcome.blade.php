@@ -177,7 +177,7 @@
 
     <div class="about">
       <div>
-        <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1200&auto=format&fit=crop" alt="Profile Image">
+        <img src="https://media.licdn.com/dms/image/v2/D4E35AQGwQ-tAwQf9Xw/profile-framedphoto-shrink_800_800/B4EZ1nqonDJ4Ag-/0/1775560723190?e=1779130800&v=beta&t=9HMH6Ik-ngavQV28S3q26vqKsS7KtHtJqyzpZHRkrOg" alt="Profile Image">
       </div>
 
       <div class="about-text">
@@ -251,7 +251,7 @@
   <section class="contact" id="contact">
     <h2>Contact Me</h2>
     <p><strong>Name:</strong> Krishan Mohan Pandey</p>
-    <p><strong>Email:</strong> your-email@example.com</p>
+    <p><strong>Email:</strong> kmpandey7233@gmail.com</p>
     <p><strong>Location:</strong> India</p>
     <p><strong>LinkedIn:</strong> linkedin.com/in/krishan-mohan-pandey-2198571a0</p>
   </section>
